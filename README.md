@@ -7,19 +7,12 @@
   <a href="mailto:russell.newton01@gmail.com" target="blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FRussell-Newton%2FRussell-Newton%2Fmain%2Fshields%2Femail.json&style=for-the-badge" height="30px" /></a>
 
     
-   ### Student at Georgia Tech studying Computer Science
-
-  
-</div>
+   ### Student at Georgia Tech studying Computer Science (Expected BSCS 2020-2022, MSCS 2023-2024)
 
 <hr></hr>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Newton&theme=github-dark&show_icons=true#gh-dark-mode-only)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Newton&theme=buefy&show_icons=true#gh-light-mode-only)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Russell-Newton&layout=compact&langs_count=10)
+  <img src="https://github-readme-stats.vercel.app/api?username=Russell-Newton&theme=buefy&show_icons=true" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Russell-Newton&layout=compact" alt="Languages Used" height="200px" />
   
 </div>
 
