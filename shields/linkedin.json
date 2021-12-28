@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "label": "",
   "message": "See my LinkedIn",
-  "color": "white",
-  "namedLogo": "linkedin"
+  "color": "lightgrey",
+  "namedLogo": "linkedin",
+  "logoColor": "#0A66C2"
 }
