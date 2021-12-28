@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "label": "",
   "message": "Creator Portfolio (WIP)",
-  "color": "white",
-  "namedLogo": "githubpages"
+  "color": "lightgrey",
+  "namedLogo": "github",
+  "logoColor": "#181717"
 }
