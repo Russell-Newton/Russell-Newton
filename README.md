@@ -8,9 +8,9 @@
 
     
    ### Student at Georgia Tech studying Computer Science<br>
-  Expected   -   BSCS 2020-2022, MSCS 2023-2024
+  Expected   -   BSCS 2020-2022, MSCS 2023-2024<br>
 
-<hr></hr>
+<hr />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Russell-Newton&theme=buefy&show_icons=true" alt="GitHub Stats" height="200px"/>
   
@@ -29,5 +29,11 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.arduino.cc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a>
+
+
+<div align="center">
+  <hr />
+  <img src="https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg" />
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=18690062)
