@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "label": "",
   "message": "Email Me!",
-  "color": "white",
-  "namedLogo": "gmail"
+  "color": "lightgrey",
+  "namedLogo": "gmail",
+  "logoColor": "#EA4335"
 }
