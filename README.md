@@ -4,6 +4,7 @@
   <a href="https://www.github.com/Russell-Newton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FRussell-Newton%2FRussell-Newton%2Fmain%2Fshields%2Fgithub.json&style=for-the-badge" height="30px" /></a>
   <a href="https://russell-newton.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FRussell-Newton%2FRussell-Newton%2Fmain%2Fshields%2Fportfolio.json&style=for-the-badge" height="30px" /></a>
   <a href="https://www.linkedin.com/in/russellnewton01/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FRussell-Newton%2FRussell-Newton%2Fmain%2Fshields%2Flinkedin.json&style=for-the-badge" height="30px" /></a>
+  <a href="https://devpost.com/Russell-Newton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FRussell-Newton%2FRussell-Newton%2Fmain%2Fshields%2Fdevpost.json&style=for-the-badge" height="30px" /></a>
   <a href="mailto:russell.newton01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FRussell-Newton%2FRussell-Newton%2Fmain%2Fshields%2Femail.json&style=for-the-badge" height="30px" /></a>
 
     
